@@ -4,7 +4,7 @@
 
 ----
 
-Leave your name, student ID, ETH email address and URL link to demo video here.
+Leave your name, student ID, ETH email address and your answer to Ex.1 here.
 
 - Name:
 - Student ID:
@@ -32,7 +32,7 @@ Once you complete this assignment you should hand in
     
 The grading scheme is as follows
 - baseline (80 %): based on your code, your answer in README (Ex.1).
-- advanced (20 %): based on your code and a demo video. 
+- advanced (20 %): based on your code. 
 - your implementation will be evaluated by an auto grading system **after the deadline**. (the test sets are **not visible** to you)
 
 **IMPORTANT:** If your code is not built successfully, you will get **zero** point from this assignment. So make sure
